@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\quent\Documents\Projects\CloseGL\Main.cpp(96,20): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+C:\Users\quent\Documents\Projects\CloseGL\Main.cpp(102,22): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+  CloseGL.vcxproj -> C:\Users\quent\Documents\Projects\CloseGL\x64\Debug\CloseGL.exe
